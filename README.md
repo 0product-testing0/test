@@ -13,5 +13,5 @@ Players take turns entering a square number from 1 to 9. Enter `q` to quit.
 ## Test
 
 ```bash
-python -m pytest
+python3 -m unittest
 ```
